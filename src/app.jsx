@@ -7,7 +7,7 @@ import Individual_donation from "./pages/Individual_donation";
 import Family_donation from "./pages/Family_donation";
 import Cow_adoption from "./pages/Cow_adoption";
 import Calf_adoption from "./pages/Calf_adoption";
-import Custom_amount from "./pages/custom_amount";
+import Custom_amount from "./pages/Custom_amount";
 import Gau_daan from "./pages/Gau_daan";
 import Feed_fodder from "./pages/Feed_fodder";
 import Individual_donation_form from "./forms/Individual_donation_form";
